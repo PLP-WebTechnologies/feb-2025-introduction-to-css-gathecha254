@@ -27,8 +27,8 @@ body {
 }  
 
 .responsive-image {  
-    display: block; 
-    max-width: 100%;  
+    display: inline-block; 
+    max-width: 88%;  
     height: auto;  
     margin: 33px; 
     padding: 44px; 
@@ -41,4 +41,4 @@ body {
     padding: 10px;  
     background-color: #333;  
     color: white;  
-}  
+}
